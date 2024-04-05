@@ -1,9 +1,11 @@
-Password Generator Training
+Rock Paper Scissors Training.
 
-An password generator where you can choose your own password and save it.
+A rock paper scissors game with a random function.
+
+
 
 What I learned
 
-How List[] works, and how to use the random code on python.
+-How to use a random function.
 
 
